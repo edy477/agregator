@@ -1,5 +1,5 @@
 
-
+/*
 import React, { useState, createContext, useReducer } from 'react'
 
 export const NoteContext = React.createContext();
@@ -36,3 +36,4 @@ const NotesContextProvider = (props) => {
 }
 
 export default NotesContextProvider;
+*/
